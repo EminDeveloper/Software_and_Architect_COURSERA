@@ -1,0 +1,35 @@
+1.  
+When explaining a solution to your fellow developers
+    For a commonly-encountered issue
+
+
+2. 
+to enforce instantiation of only one object of a class  
+to provide global access to an object
+	
+
+3.	the subclass defines the methods for concrete instantiation. As such, the type of object is determined by which subclass is instantiated. 
+
+
+
+4. concrete instantiation
+
+
+5.  The client and the subsystem are more loosely coupled ,
+The Facade class redirects requests as needed 
+The complexity of the subsystem is hidden 
+
+
+6.	c)
+
+7.  Files and folders , Music in a playlist, Elements in a user-interface dialog 
+
+8.  information proxy
+
+9.  builds a behaviour by stacking objects 
+
+10. composite , leaf
+
+11. Factory
+
+12. Give the Singleton class a private constructor

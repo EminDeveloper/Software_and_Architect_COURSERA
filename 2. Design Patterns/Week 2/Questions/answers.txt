@@ -1,0 +1,40 @@
+1.  d)
+
+
+2.  You have multiple potential handlers, but only one will deal with the request.
+
+
+3.  
+it turns the context into a client of the state. 
+it removes large conditionals that are difficult to maintain. 
+it allows the current state object to decide how to achieve behaviours specific to the state of the context.
+
+
+4.  Encapsulation, generalization, information hiding
+
+
+5.  
+method to notify observers 
+update method in observers 
+methods to add or remove observers 
+
+
+6.  When you are coordinating the activities of a set of related classes. 
+
+
+7.  Template pattern
+
+
+8.  Command, Receiver, Invoker
+
+
+9.  d).
+
+
+10.  Mediator 
+
+
+11.  State 
+
+
+12.  Observer 

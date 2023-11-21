@@ -1,0 +1,66 @@
+1. Conceptual  +
+
+2. Technical  -
+
+3. CRC, mockups  -
+
+4. responsibilities, collaborators  +
+
+5. hunger, eat berries    +
+
+6. bear, tree, den    +
+
+7. entity  -  
+
+8. boundary  -
+
+9. control  +
+
+10. 
+Limiting features knowing that they can be added later  -
+
+11. black box thinking   +
+
+12. Store   +
+
+13. --++++
+
+14. a)
+
+15. generalization  +
+
+16. b) -
+
+17. a)  +
+
+18. d)  +
+
+19. Hiker - Trail  +
+
+20. Car - Road  -
+
+21. Book - Page  +
+
+22. ....it tries to encapsulate too many unrelated responsibilities.  +
+
+23. 
+In order to understand one class, you need to open up the other to look at the implementation  +
+
+They are very highly reliant on each other  +
+
+
+24. Separate objects or components according to their role in the software   +
+
+25. an operation in the superclass is replaced by a different operation in the subclass   -
+
+26. To show the collaborative behaviour of objects in your program +
+
+27.  d)   -
+
+28.  a)    -
+
+29. 
+To check the software for errors before release   -
+
+30. 
+variables that are assigned a type (i.e. integer, double) but does not yet have a value assigned.   -
